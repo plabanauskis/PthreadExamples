@@ -1,0 +1,9 @@
+*.bat
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.opensdf
+*.sdf
+*.suo
+Debug/
